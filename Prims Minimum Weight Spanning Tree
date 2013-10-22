@@ -1,0 +1,9 @@
+InterStellar Thread Handling
+
+By  : Sep Taheri
+
+Input  :: Stream of threads incoming
+Process:: Handles threads using Mutex && Semaphores
+Output :: Confirm compeletion without starvation
+
+
